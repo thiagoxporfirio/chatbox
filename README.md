@@ -1,6 +1,5 @@
 # chatbox
 
-Teste pratico da Target Sistemas
 
 ```bash
 Acesse: 
